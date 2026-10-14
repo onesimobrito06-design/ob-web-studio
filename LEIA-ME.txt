@@ -1,0 +1,12 @@
+OB WEB STUDIO — WEBSITE BASE COMPLETO
+
+Ficheiros: index.html (Início), servicos.html, sobre.html, pedido.html, contactos.html, style.css e script.js.
+
+ANTES DE PUBLICAR:
+1. O site ainda não está publicado na Internet.
+2. Abre script.js e substitui SUBSTITUIR_PELO_TEU_EMAIL pelo e-mail onde queres receber pedidos.
+3. Actualiza contactos.html com o teu WhatsApp e dados reais.
+4. O formulário não guarda dados num servidor; depois de configurado, prepara uma mensagem no aplicativo de e-mail do visitante. Para guardar pedidos automaticamente, liga Google Forms ou implementa um backend.
+5. Não há pagamentos online integrados.
+6. Revê o conteúdo antes de aceitar clientes.
+7. Para publicar, coloca os ficheiros num serviço de alojamento estático. O ZIP contém todos os ficheiros do site.
